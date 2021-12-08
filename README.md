@@ -1,3 +1,6 @@
+![SBDeveloper90 Logo](https://github.com/sbdeveloper90/sbdeveloper90/blob/main/logo-sb.png)
+
+
 # Hi folks, I'm Seb :wave:
 - Degree in Computer Science :school:
 - Working as Web Developer :computer:
